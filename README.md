@@ -1,2 +1,2 @@
-# flyaway-simplilearn
-Assignment Simplilearn
+# flyaway-java spring
+Spring java crud project
